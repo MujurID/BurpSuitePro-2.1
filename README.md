@@ -10,7 +10,7 @@
   0-Pro 2.1.05的加载补丁必须JDK8(只因大佬用的Java8，高版本Java换用ClassFileTransformer或其他什么技术手段来完成Patch)。。。
   1-在BurpSuite官网，下载Community版本的安装包;
   2-把破解的pro版的jar包，改名为burpsuite_community.jar，并替换软件安装目录下的burpsuite_community.jar
-  3-打开burp-loader-keygen.jar
+  3-打开burp-loader-helper.jar
   Powershell：java -jar "C:\Program Files\BurpSuiteCommunity\burp-loader-helper.jar"
   
   4-打开burpsuite_community.jar
